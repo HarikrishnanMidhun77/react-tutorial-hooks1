@@ -1,0 +1,10 @@
+.container-10 {
+  padding: 10px;
+}
+.width-auto {
+  width: 75vw;
+}
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
